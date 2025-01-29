@@ -16,7 +16,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/TanvirJahan001/tic-tac-toe.git
 cd tic-tac-toe
 ```
 
